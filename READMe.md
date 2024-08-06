@@ -1,21 +1,11 @@
-# This is  a FrontEnd Project using by HTML & CSS 
+# AMAZON.COM Clone using by HTML & CSS 
 
-   Skills Demonstrated:
+Here are the main points to focus on when creating an Amazon clone using HTML and CSS:
 
-1. Proficiency in HTML and CSS
-2. Understanding of responsive web design principles
-3. Ability to recreate a complex website design
-4. Attention to detail and commitment to quality
+1.  Ensure a smooth user experience across various devices and screen sizes using media queries, flexbox, and grid but i am used only flexbox.
+2. Header and Navigation: Recreate the iconic Amazon header with a logo, search bar, and navigation menu that adapts to different screen sizes.
+3. Shopping Cart and Checkout: Design a functional shopping cart and checkout process with a summary, payment options, and order details..
 
-# That is used 
-
-Home Page:
-
-1. Header with logo, search bar, and navigation menu
-2. Hero section with banner image and promotional text
-3. Featured products section with product cards
-4. Best seller and deal sections
-5. Footer with copyright information and links
 
 
 
